@@ -22763,11 +22763,23 @@
     {
       "id": "redness",
       "name_ja": "赤み",
-      "factor_ids": [
-        "factor_redness"
-      ],
-      "ingredient_ids": [
-        "azelaic"
+      "factor_ids": [],
+      "ingredient_ids": [],
+      "navigation_only": true,
+      "routes": [
+        {
+          "title": "赤い吹き出物がある",
+          "state_id": "acne"
+        },
+        {
+          "title": "頬や鼻を中心に赤みが続く・ほてる",
+          "state_id": "rosacea",
+          "label": "酒さに関連する情報へ（商品紹介なし）"
+        },
+        {
+          "title": "化粧品を使うと赤くなる・ヒリつく",
+          "state_id": "sensitive"
+        }
       ]
     },
     {
@@ -38036,5 +38048,21 @@
       "formula_complete": false,
       "source": "既存のメーカー確認データ"
     }
-  ]
+  ],
+  "medical_information": {
+    "rosacea": {
+      "name_ja": "酒さに関連する情報",
+      "show_products": false,
+      "sources": [
+        {
+          "title": "日本皮膚科学会：尋常性痤瘡・酒皶治療ガイドライン2023",
+          "url": "https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/zasou2023.pdf"
+        },
+        {
+          "title": "米国皮膚科学会：酒さの診断と治療",
+          "url": "https://www.aad.org/public/diseases/rosacea/treatment/diagnosis-treat"
+        }
+      ]
+    }
+  }
 }
