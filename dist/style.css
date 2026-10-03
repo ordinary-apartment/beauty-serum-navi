@@ -21,3 +21,5 @@
 .darkening-nav{display:flex;flex-wrap:wrap;gap:12px}.darkening-nav a{padding:10px 14px;background:var(--wash);border:1px solid var(--line);border-radius:6px}section[id^="darkening-section"]{scroll-margin-top:20px}
 
 .layer-mark{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;flex:none}.layer-mark svg{display:block;width:100%;height:100%}
+
+.darkening-links{display:grid;gap:14px;margin:28px 0}.darkening-link{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:12px;padding:20px;border:1px solid var(--line);border-radius:10px;background:var(--wash);text-decoration:none;color:var(--ink)}.darkening-link span{color:var(--blue);font-weight:600}.darkening-link:hover{border-color:var(--blue)}
