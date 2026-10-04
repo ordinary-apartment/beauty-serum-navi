@@ -132,7 +132,7 @@ function stateProducts(state){
 }
 function stateProductSection(state){
  const ids=stateIngredientIds(state), rows=stateProducts(state);
- return `<section class="section state-products" aria-labelledby="state-products-title"><h2 id="state-products-title">関連成分を含む商品 <span class="metadata">${rows.length}件</span></h2><p class="metadata">登録商品のうち、上記の成分との配合関連付けを確認できた商品をすべて表示します。成分の配合は、この肌状態への効果や相性を保証するものではありません。市場の全商品を網羅した一覧ではありません。</p>${rows.length?`<div class="cards">${rows.map(p=>{
+ return `<section class="section state-products" aria-labelledby="state-products-title"><h2 id="state-products-title">関連成分を含む商品 <span class="metadata">${rows.length}件</span></h2>${rows.length?`<div class="cards">${rows.map(p=>{
  const related=p.ingredient_ids.filter(id=>ids.has(id)).map(id=>find('ingredients',id)?.name_ja).filter(Boolean);
  const card=catalogCard(p,ids);return card.replace('<article class="card product-card">',`<article class="card product-card" data-state-product="${E(p.id)}">`).replace('</article>',`<a class="product-rakuten" href="https://search.rakuten.co.jp/search/mall/${encodeURIComponent(p.brand+' '+p.name)}/" target="_blank" rel="noopener noreferrer">楽天でこの商品を探す</a></article>`);
  }).join('')}</div>`:'<p class="empty">配合を照合した商品の登録がまだありません。</p>'}</section>`;
@@ -159,5 +159,5 @@ function poresProductSections(){
  ['pores-dry','乾燥時に目立つ毛穴',['ceramide'],'セラミドを含む商品です。乾燥に伴う皮膚表面の状態を整える目的で確認します。'],
  ['pores-scars','ニキビ瘢痕による凹み',[],'瘢痕の凹みを改善する美容液として紹介できる商品は掲載していません。毛穴詰まりのケアとは分け、瘢痕の状態に応じた治療を確認します。']
  ];
- return `<section class="section"><h2>タイプ別の関連成分を含む商品</h2><p class="metadata">配合を確認した登録商品をタイプ別に表示しています。同じ商品が複数の欄に掲載されることがあります。</p>${groups.map(([id,title,ingredient_ids,note])=>{const state={ingredient_ids},ids=stateIngredientIds(state),rows=stateProducts(state);return `<section id="${id}" class="section pores-product-group" style="scroll-margin-top:24px"><h3>${E(title)} <span class="metadata">${ingredient_ids.length?rows.length+'件':''}</span></h3><p>${E(note)}</p>${rows.length?`<div class="cards">${rows.map(p=>catalogCard(p,ids).replace('</article>',`<a class="product-rakuten" href="https://search.rakuten.co.jp/search/mall/${encodeURIComponent(p.brand+' '+p.name)}/" target="_blank" rel="noopener noreferrer">楽天でこの商品を探す</a></article>`)).join('')}</div>`:''}</section>`}).join('')}</section>`;
+ return `<section class="section"><h2>タイプ別の関連成分を含む商品</h2>${groups.map(([id,title,ingredient_ids,note])=>{const state={ingredient_ids},ids=stateIngredientIds(state),rows=stateProducts(state);return `<section id="${id}" class="section pores-product-group" style="scroll-margin-top:24px"><h3>${E(title)} <span class="metadata">${ingredient_ids.length?rows.length+'件':''}</span></h3>${ingredient_ids.length?'':`<p>${E(note)}</p>`}${rows.length?`<div class="cards">${rows.map(p=>catalogCard(p,ids).replace('</article>',`<a class="product-rakuten" href="https://search.rakuten.co.jp/search/mall/${encodeURIComponent(p.brand+' '+p.name)}/" target="_blank" rel="noopener noreferrer">楽天でこの商品を探す</a></article>`)).join('')}</div>`:''}</section>`}).join('')}</section>`;
 }
