@@ -159,7 +159,7 @@ function poresProductSections(){
  ['pores-dry','乾燥時に目立つ毛穴',['ceramide'],'セラミドを含む商品です。乾燥に伴う皮膚表面の状態を整える目的で確認します。'],
  ['pores-scars','ニキビ瘢痕による凹み',[],'瘢痕の凹みを改善する美容液として紹介できる商品は掲載していません。毛穴詰まりのケアとは分け、瘢痕の状態に応じた治療を確認します。']
  ];
- return `<section class="section"><h2>タイプ別の関連成分を含む商品</h2>${groups.map(([id,title,ingredient_ids,note])=>{const state={ingredient_ids},ids=stateIngredientIds(state),rows=stateProducts(state);return `<section id="${id}" class="section pores-product-group" style="scroll-margin-top:24px"><h3>${E(title)} <span class="metadata">${ingredient_ids.length?rows.length+'件':''}</span></h3>${ingredient_ids.length?'':`<p>${E(note)}</p>`}${rows.length?`<div class="cards">${rows.map(p=>catalogCard(p,ids).replace('</article>',`<a class="product-rakuten" href="https://search.rakuten.co.jp/search/mall/${encodeURIComponent(p.brand+' '+p.name)}/" target="_blank" rel="noopener noreferrer">楽天でこの商品を探す</a></article>`)).join('')}</div>`:''}</section>`}).join('')}</section>`;
+ return groupedProductSections(groups,'タイプ別の関連成分を含む商品','pores');
 }
 
 function oilProductSections(){
@@ -169,5 +169,16 @@ function oilProductSections(){
  ['oil-acne','テカリ＋ニキビの炎症',['azelaic']],
  ['oil-aging','テカリ＋小ジワ・光老化も気になる',['retinol']]
  ];
- return `<section class="section"><h2>状態別の関連成分を含む商品</h2>${groups.map(([id,title,ingredient_ids])=>{const state={ingredient_ids},ids=stateIngredientIds(state),rows=stateProducts(state);return `<section id="${id}" class="section oil-product-group" style="scroll-margin-top:24px"><h3>${E(title)} <span class="metadata">${rows.length}件</span></h3>${rows.length?`<div class="cards">${rows.map(p=>catalogCard(p,ids).replace('</article>',`<a class="product-rakuten" href="https://search.rakuten.co.jp/search/mall/${encodeURIComponent(p.brand+' '+p.name)}/" target="_blank" rel="noopener noreferrer">楽天でこの商品を探す</a></article>`)).join('')}</div>`:'<p>登録商品はありません。</p>'}</section>`}).join('')}</section>`;
+ return groupedProductSections(groups,'状態別の関連成分を含む商品','oil');
+}
+
+function groupedProductSections(groups,heading,page){
+ const key=p=>p.url||p.brand+'|'+p.name;
+ const prepared=groups.map(([id,title,ingredient_ids,note])=>({id,title,ingredient_ids,note,ids:stateIngredientIds({ingredient_ids}),rows:stateProducts({ingredient_ids})}));
+ const memberships=new Map();
+ for(const group of prepared)for(const product of group.rows){const k=key(product);if(!memberships.has(k))memberships.set(k,{product,groups:[]});memberships.get(k).groups.push(group);}
+ const common=[...memberships.values()].filter(entry=>entry.groups.length>1);
+ const commonKeys=new Set(common.map(entry=>key(entry.product)));
+ const card=(product,ids,types=[])=>catalogCard(product,ids).replace('<article class="card product-card">',`<article class="card product-card" data-grouped-product="${E(key(product))}">`).replace('</article>',`${types.length?`<p class="product-key-ingredients">${types.map(g=>`<a href="#concern/${page}/${g.id}">${E(g.title)}</a>`).join(' / ')}</p>`:''}<a class="product-rakuten" href="https://search.rakuten.co.jp/search/mall/${encodeURIComponent(product.brand+' '+product.name)}/" target="_blank" rel="noopener noreferrer">楽天でこの商品を探す</a></article>`);
+ return `<section class="section"><h2>${E(heading)}</h2><section id="${page}-common" class="section" style="scroll-margin-top:24px"><h3>共通 <span class="metadata">${common.length}件</span></h3>${common.length?`<div class="cards">${common.map(entry=>card(entry.product,new Set(entry.groups.flatMap(g=>[...g.ids])),entry.groups)).join('')}</div>`:'<p>共通の商品はありません。</p>'}</section>${prepared.map(group=>{const rows=group.rows.filter(p=>!commonKeys.has(key(p))),hasCommon=group.rows.some(p=>commonKeys.has(key(p)));return `<section id="${group.id}" class="section" style="scroll-margin-top:24px"><h3>${E(group.title)} <span class="metadata">${group.ingredient_ids.length?rows.length+'件':''}</span></h3>${hasCommon?`<p><a href="#concern/${page}/${page}-common">共通の商品を見る</a></p>`:''}${!group.ingredient_ids.length&&group.note?`<p>${E(group.note)}</p>`:''}${rows.length?`<div class="cards">${rows.map(p=>card(p,group.ids)).join('')}</div>`:''}</section>`}).join('')}</section>`;
 }
