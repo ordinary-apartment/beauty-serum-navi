@@ -15870,10 +15870,7 @@
         }
       ],
       "card_limit": "この索引では、この成分単独のヒト比較試験は確認できていません。メーカーの配合目的と臨床効果は区別します。",
-      "condition_ids": [
-        "peeling",
-        "dry"
-      ],
+      "condition_ids": [],
       "related_factor_ids": [
         "factor_peeling",
         "factor_dry"
@@ -15907,9 +15904,7 @@
         }
       ],
       "card_limit": "この索引では、この成分単独のヒト比較試験は確認できていません。メーカーの配合目的と臨床効果は区別します。",
-      "condition_ids": [
-        "dry"
-      ],
+      "condition_ids": [],
       "related_factor_ids": [
         "factor_dry"
       ],
@@ -15943,11 +15938,7 @@
         }
       ],
       "card_limit": "この索引では、この成分単独のヒト比較試験は確認できていません。メーカーの配合目的と臨床効果は区別します。",
-      "condition_ids": [
-        "sensitive",
-        "peeling",
-        "dry"
-      ],
+      "condition_ids": [],
       "related_factor_ids": [
         "factor_peeling",
         "factor_dry",
@@ -16024,7 +16015,6 @@
       ],
       "card_limit": "万能な成分ではありません。試験と市販商品の濃度・処方は異なり、10%など高濃度ほど効果が高いとは判断できません。",
       "condition_ids": [
-        "overall",
         "pores",
         "oil",
         "spots"
@@ -16157,10 +16147,7 @@
       ],
       "card_limit": "医薬品のトレチノイン・アダパレンとは別の成分です。レチノール配合だけで、ニキビ治療薬と同じ効果があるとはいえません。",
       "condition_ids": [
-        "overall",
-        "pores",
-        "lines",
-        "firmness"
+        "pores"
       ],
       "related_factor_ids": [
         "factor_firmness",
@@ -22787,7 +22774,8 @@
             "PIH_SCAR"
           ]
         }
-      ]
+      ],
+      "display_number": 1
     },
     {
       "id": "darkening",
@@ -22910,7 +22898,8 @@
             "DARK_BODY"
           ]
         }
-      ]
+      ],
+      "display_number": 2
     },
     {
       "id": "oil",
@@ -22991,19 +22980,8 @@
             "OIL_CARE"
           ]
         }
-      ]
-    },
-    {
-      "id": "dry",
-      "name_ja": "乾燥・つっぱり",
-      "factor_ids": [
-        "factor_dry"
       ],
-      "ingredient_ids": [
-        "glycerin",
-        "ceramide",
-        "hyaluronic"
-      ]
+      "display_number": 3
     },
     {
       "id": "texture",
@@ -23014,18 +22992,8 @@
       "ingredient_ids": [
         "salicylic",
         "inci_592830b47266"
-      ]
-    },
-    {
-      "id": "overall",
-      "name_ja": "キメの乱れ",
-      "factor_ids": [
-        "factor_overall"
       ],
-      "ingredient_ids": [
-        "retinol",
-        "niacinamide"
-      ]
+      "display_number": 5
     },
     {
       "id": "redness",
@@ -23042,10 +23010,6 @@
           "title": "頬や鼻を中心に赤みが続く・ほてる",
           "state_id": "rosacea",
           "label": "酒さに関連する情報へ（商品紹介なし）"
-        },
-        {
-          "title": "化粧品を使うと赤くなる・ヒリつく",
-          "state_id": "sensitive"
         }
       ],
       "faq_title": "肌の赤みについてのQ&A",
@@ -23133,7 +23097,8 @@
             "RED_NIA"
           ]
         }
-      ]
+      ],
+      "display_number": 7
     },
     {
       "id": "acne",
@@ -23144,7 +23109,8 @@
       "ingredient_ids": [
         "salicylic",
         "azelaic"
-      ]
+      ],
+      "display_number": 8
     },
     {
       "id": "post_acne",
@@ -23201,7 +23167,8 @@
             "PIH_SCAR"
           ]
         }
-      ]
+      ],
+      "display_number": 9
     },
     {
       "id": "spots",
@@ -23274,7 +23241,8 @@
           ],
           "related_state_id": "post_acne"
         }
-      ]
+      ],
+      "display_number": 10
     },
     {
       "id": "dull",
@@ -23386,48 +23354,8 @@
             "PIH_DERM"
           ]
         }
-      ]
-    },
-    {
-      "id": "lines",
-      "name_ja": "小ジワ",
-      "factor_ids": [
-        "factor_lines"
       ],
-      "ingredient_ids": [
-        "retinol"
-      ]
-    },
-    {
-      "id": "firmness",
-      "name_ja": "ハリ低下",
-      "factor_ids": [
-        "factor_firmness"
-      ],
-      "ingredient_ids": [
-        "retinol"
-      ]
-    },
-    {
-      "id": "sensitive",
-      "name_ja": "敏感・刺激を感じやすい",
-      "factor_ids": [
-        "factor_sensitive"
-      ],
-      "ingredient_ids": [
-        "ceramide"
-      ]
-    },
-    {
-      "id": "peeling",
-      "name_ja": "乾燥による皮むけ",
-      "factor_ids": [
-        "factor_peeling"
-      ],
-      "ingredient_ids": [
-        "ceramide",
-        "glycerin"
-      ]
+      "display_number": 11
     },
     {
       "id": "melasma",
@@ -23489,7 +23417,8 @@
             "MEL_SELF"
           ]
         }
-      ]
+      ],
+      "display_number": 16
     }
   ],
   "factors": [
