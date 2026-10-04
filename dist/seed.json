@@ -2965,7 +2965,6 @@
         "factor_dull"
       ],
       "condition_ids": [
-        "texture",
         "dull"
       ],
       "combinations": [],
@@ -16055,7 +16054,6 @@
       ],
       "card_limit": "角質ケア用化粧品とニキビ治療薬は区別します。毛穴の開き・たるみまで同じ根拠で改善すると判断できません。",
       "condition_ids": [
-        "texture",
         "pores",
         "oil",
         "acne"
@@ -22774,8 +22772,7 @@
             "PIH_SCAR"
           ]
         }
-      ],
-      "display_number": 1
+      ]
     },
     {
       "id": "darkening",
@@ -22898,8 +22895,7 @@
             "DARK_BODY"
           ]
         }
-      ],
-      "display_number": 2
+      ]
     },
     {
       "id": "oil",
@@ -22980,20 +22976,7 @@
             "OIL_CARE"
           ]
         }
-      ],
-      "display_number": 3
-    },
-    {
-      "id": "texture",
-      "name_ja": "角質・ざらつき",
-      "factor_ids": [
-        "factor_texture"
-      ],
-      "ingredient_ids": [
-        "salicylic",
-        "inci_592830b47266"
-      ],
-      "display_number": 5
+      ]
     },
     {
       "id": "redness",
@@ -23097,8 +23080,7 @@
             "RED_NIA"
           ]
         }
-      ],
-      "display_number": 7
+      ]
     },
     {
       "id": "acne",
@@ -23109,8 +23091,7 @@
       "ingredient_ids": [
         "salicylic",
         "azelaic"
-      ],
-      "display_number": 8
+      ]
     },
     {
       "id": "post_acne",
@@ -23167,8 +23148,7 @@
             "PIH_SCAR"
           ]
         }
-      ],
-      "display_number": 9
+      ]
     },
     {
       "id": "spots",
@@ -23241,8 +23221,7 @@
           ],
           "related_state_id": "post_acne"
         }
-      ],
-      "display_number": 10
+      ]
     },
     {
       "id": "dull",
@@ -23354,8 +23333,7 @@
             "PIH_DERM"
           ]
         }
-      ],
-      "display_number": 11
+      ]
     },
     {
       "id": "melasma",
@@ -23417,8 +23395,7 @@
             "MEL_SELF"
           ]
         }
-      ],
-      "display_number": 16
+      ]
     }
   ],
   "factors": [
