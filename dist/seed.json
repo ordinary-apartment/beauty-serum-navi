@@ -22954,6 +22954,13 @@
                 "レチノール",
                 "小ジワ・光老化など別の目的も確認"
               ]
+            ],
+            "target_state_id": "oil",
+            "row_targets": [
+              "oil-main",
+              "oil-clogged",
+              "oil-acne",
+              "oil-aging"
             ]
           },
           "source_ids": [
