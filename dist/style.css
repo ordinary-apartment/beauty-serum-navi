@@ -25,3 +25,5 @@
 .darkening-links{display:grid;gap:14px;margin:28px 0}.darkening-link{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:12px;padding:20px;border:1px solid var(--line);border-radius:10px;background:var(--wash);text-decoration:none;color:var(--ink)}.darkening-link span{color:var(--blue);font-weight:600}.darkening-link:hover{border-color:var(--blue)}
 
 .skin-faq{max-width:850px}.faq-item{padding:22px 0;border-bottom:1px solid var(--line)}.faq-item h3{font-size:20px}.faq-item p{line-height:1.9}.faq-item .metadata{font-size:12px}
+
+.faq-table-scroll{max-width:100%;overflow-x:auto;margin:22px 0}.faq-comparison{width:100%;border-collapse:collapse;min-width:570px;font-size:14px}.faq-comparison caption{text-align:left;font-weight:600;margin-bottom:10px}.faq-comparison th,.faq-comparison td{border:1px solid var(--line);padding:12px;text-align:left;vertical-align:top}.faq-comparison thead,.faq-comparison tbody th{background:var(--wash)}
