@@ -40083,5 +40083,19 @@
       "intl_paula_az10"
     ],
     "policy": "症状別一覧は確認した顔用美容液・化粧水・原液。配合目的と医薬品の治療を区別し、洗浄剤・マスク・日焼け止め・クリーム・身体用・医薬品は自動掲載しない。"
-  }
+  },
+  "ingredient_groups": [
+    {
+      "id": "aha",
+      "name_ja": "AHA（α-ヒドロキシ酸）",
+      "ingredient_ids": [
+        "inci_592830b47266",
+        "inci_9799d9b8bac1",
+        "inci_af72ae6a77d1"
+      ],
+      "description": "AHAは乳酸・グリコール酸・マンデル酸などを含む成分群の名称です。角質ケアの用途で調べられます。成分ごとの性質、製品の濃度やpH、使い方を確認します。",
+      "caution": "刺激や皮むけが出ることがあります。強くこすったり、角質ケアを重ねたりせず、製品の用法に従ってください。",
+      "source_url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/safely-exfoliate-at-home"
+    }
+  ]
 }
