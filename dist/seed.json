@@ -22735,6 +22735,15 @@
                 "ニキビ後の皮膚の瘢痕",
                 "毛穴の詰まりとは別の状態。美容液での改善には限界があり、瘢痕治療を検討"
               ]
+            ],
+            "row_targets": [
+              "pores-oily",
+              "pores-clogged",
+              "pores-blackheads",
+              "pores-filaments",
+              "pores-firmness",
+              "pores-dry",
+              "pores-scars"
             ]
           },
           "source_ids": [
