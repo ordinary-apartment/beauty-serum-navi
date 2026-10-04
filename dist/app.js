@@ -138,7 +138,7 @@ function stateProductSection(state){
  }).join('')}</div>`:'<p class="empty">配合を照合した商品の登録がまだありません。</p>'}</section>`;
 }
 
-function ingredientIndexRow(i){const row=`<a class="ingredient-index-row" href="#ingredient/${E(i.id)}"><span class="ingredient-index-name"><b>${E(i.name_ja)}</b><small>${E(i.inci_name||i.name_en||'')}</small></span><span class="ingredient-index-category">${E(categoryNames[i.category]||i.category||'既存資料')}</span><span class="ingredient-index-description">${E(i.description||i.role)}</span><span class="ingredient-index-arrow" aria-hidden="true">›</span></a>`;return i.inci_name==='RETINAL'?`<div class="ingredient-index-entry ingredient-index-entry-products">${row}${ingredientProductSection(i.id)}</div>`:row;}
+function ingredientIndexRow(i){const row=`<a class="ingredient-index-row" href="#ingredient/${E(i.id)}"><span class="ingredient-index-name"><b>${E(i.name_ja)}</b><small>${E(i.inci_name||i.name_en||'')}</small></span><span class="ingredient-index-category">${E(categoryNames[i.category]||i.category||'既存資料')}</span><span class="ingredient-index-description">${E(i.description||i.role)}</span><span class="ingredient-index-arrow" aria-hidden="true">›</span></a>`;return `<div class="ingredient-index-entry ingredient-index-entry-products">${row}${ingredientProductSection(i.id)}</div>`;}
 
 function darkeningPage(s){display(`${crumbs(s.name_ja)}<h1>黒ずみ</h1><p class="sub">「黒ずみ」は、毛穴の黒い点や、ニキビ後の茶色い跡など、異なる状態を指す言葉です。近い見え方を選ぶと、関連する肌状態のページへ進みます。</p><div class="darkening-links">${s.sections.map(part=>{const state=db.skin_states.find(v=>v.id===part.state_id);return `<a class="darkening-link" href="#concern/${E(state.id)}"><strong>${E(part.title)}</strong><span>→ ${E(state.name_ja)}へ</span></a>`}).join('')}</div>${skinStateFaq(s)}`,'黒ずみ');}
 
