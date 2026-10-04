@@ -44,3 +44,5 @@
 .product-brand{font-size:10px}.product-price{font-size:11px}.product-key-ingredients,.product-ingredients,.product-links,.product-rakuten{font-size:10px;line-height:1.5}
 .product-card .package-unavailable{min-height:64px}.product-card a{display:inline-block;padding-block:5px}.product-ingredients summary{padding-block:5px}.product-card .product-key-ingredients b{display:none}
 }
+
+.ingredient-index-entry-products{border-bottom:1px solid var(--line)}.ingredient-index-entry-products>.ingredient-index-row{border-bottom:0}.ingredient-index-entry-products>.ingredient-products{margin:0;padding:0 10px 20px}.ingredient-index-entry-products>.ingredient-products>h2{font-size:14px;margin:0 0 12px;color:var(--muted)}
