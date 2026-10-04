@@ -125,9 +125,9 @@ function stateIngredientIds(state){
  return ids;
 }
 function stateProducts(state){
- const ids=stateIngredientIds(state), rows=db.catalog_products.filter(p=>p.ingredient_ids.some(id=>ids.has(id))).map(p=>({...p}));
- for(const p of db.tunemakers_catalog||[]){if(ids.has(p.ingredient_index_id))rows.push({id:'tm_'+p.id,name:p.name,brand:'チューンメーカーズ',image_url:p.image_url,url:p.url,price:null,currency:'JPY',ingredient_ids:[p.ingredient_index_id],full_ingredients:[],formula_complete:false,source:'既存のメーカー成分シリーズ確認',detail_route:null});}
- for(const p of db.international_catalog||[]){if((p.ingredient_ids||[]).some(id=>ids.has(id)))rows.push({...p,full_ingredients:[],formula_complete:false,price:null,currency:'',detail_route:null});}
+ const ids=stateIngredientIds(state), rows=db.catalog_products.filter(p=>p.concern_listing_eligible&&(p.concern_ingredient_ids||p.ingredient_ids).some(id=>ids.has(id))).map(p=>({...p}));
+ for(const p of db.tunemakers_catalog||[]){if(db.condition_catalog_review.eligible_tunemakers_ids.includes(p.id)&&ids.has(p.ingredient_index_id))rows.push({id:'tm_'+p.id,name:p.name,brand:'チューンメーカーズ',image_url:p.image_url,url:p.url,price:null,currency:'JPY',ingredient_ids:[p.ingredient_index_id],full_ingredients:[],formula_complete:false,source:'既存のメーカー成分シリーズ確認',detail_route:null});}
+ for(const p of db.international_catalog||[]){if(!db.condition_catalog_review.excluded_international_ids.includes(p.id)&&(p.ingredient_ids||[]).some(id=>ids.has(id)))rows.push({...p,full_ingredients:[],formula_complete:false,price:null,currency:'',detail_route:null});}
  const seen=new Set();return rows.filter(p=>{const key=p.url||p.brand+'|'+p.name;if(seen.has(key))return false;seen.add(key);return true;});
 }
 function stateProductSection(state){
@@ -156,7 +156,7 @@ function poresProductSections(){
  ['pores-blackheads','黒ずみ毛穴・黒ニキビ',['salicylic'],'サリチル酸の角質ケアを調べるための配合商品です。'],
  ['pores-filaments','皮脂腺フィラメント',['salicylic'],'目立ちにくくするケアとして調べる配合商品です。正常な構造を完全に除去する目的ではありません。'],
  ['pores-firmness','ハリ低下に伴う毛穴の目立ち',['retinol'],'レチノールを含む商品です。紫外線対策も合わせて確認します。'],
- ['pores-dry','乾燥時に目立つ毛穴',['ceramide'],'セラミドを含む商品です。乾燥に伴う皮膚表面の状態を整える目的で確認します。'],
+ ['pores-dry','乾燥時に目立つ毛穴',['ceramide','tm_0210012'],'セラミドを含む商品です。乾燥に伴う皮膚表面の状態を整える目的で確認します。'],
  ['pores-scars','ニキビ瘢痕による凹み',[],'瘢痕の凹みを改善する美容液として紹介できる商品は掲載していません。毛穴詰まりのケアとは分け、瘢痕の状態に応じた治療を確認します。']
  ];
  return groupedProductSections(groups,'タイプ別の関連成分を含む商品','pores');

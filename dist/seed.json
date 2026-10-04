@@ -23236,7 +23236,10 @@
       "ingredient_ids": [
         "azelaic",
         "vitamin_c",
-        "tranexamic"
+        "niacinamide",
+        "tm_0210420",
+        "tm_0210070",
+        "tm_0210080"
       ],
       "faq_title": "ニキビ後の色素沈着についてのQ&A",
       "faq_note": "茶色い跡、赤い跡、凹凸では調べる情報が異なります。以下は茶色い色素沈着に関連する成分と商品の索引です。",
@@ -23293,7 +23296,10 @@
       "ingredient_ids": [
         "vitamin_c",
         "tranexamic",
-        "niacinamide"
+        "niacinamide",
+        "tm_0210420",
+        "tm_0210070",
+        "tm_0210080"
       ],
       "faq_title": "シミ・そばかすについてのQ&A",
       "faq_note": "以下の成分・商品は配合情報の索引です。既にあるシミやそばかすが消えることを保証するものではありません。",
@@ -23365,7 +23371,13 @@
       ],
       "ingredient_ids": [
         "vitamin_c",
-        "inci_592830b47266"
+        "niacinamide",
+        "tranexamic",
+        "tm_0210420",
+        "tm_0210070",
+        "tm_0210080",
+        "inci_592830b47266",
+        "inci_9799d9b8bac1"
       ],
       "faq_title": "くすみについてのQ&A",
       "faq_note": "くすみは見た目を表す言葉です。色の印象だけで原因を診断せず、関連する肌状態と配合目的を確認するための情報として掲載しています。",
@@ -23687,7 +23699,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_10521852248397",
@@ -23709,7 +23722,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_10013812785485",
@@ -23731,7 +23745,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_9737122218317",
@@ -23787,7 +23802,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_8793402442061",
@@ -23870,7 +23886,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_7442795364524",
@@ -23892,7 +23909,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_7442609766572",
@@ -23946,7 +23964,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_7442751291564",
@@ -24013,13 +24032,14 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_6808131109036",
       "name": "Porefectly Clear",
       "brand": "Geek & Gorgeous",
-      "category": "メーカー未分類",
+      "category": "美容液",
       "price": "7.80",
       "currency": "EUR",
       "image_url": "https://cdn.shopify.com/s/files/1/0285/0111/4973/files/Porefectly-Clear-web.jpg?v=1705586562",
@@ -24057,7 +24077,11 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "salicylic"
+      ]
     },
     {
       "id": "catalog_geek_6807812538540",
@@ -24107,13 +24131,14 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_4329785360477",
       "name": "Cheer Up",
       "brand": "Geek & Gorgeous",
-      "category": "メーカー未分類",
+      "category": "美容液",
       "price": "28.00",
       "currency": "EUR",
       "image_url": "https://cdn.shopify.com/s/files/1/0285/0111/4973/files/157_CheerUp100ml_okmeret_3ed38691-062a-49c7-8c75-5ec16cb2db5a.jpg?v=1746449340",
@@ -24160,7 +24185,11 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "salicylic"
+      ]
     },
     {
       "id": "catalog_geek_6083277226156",
@@ -24217,7 +24246,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_5772470386855",
@@ -24266,7 +24296,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_5706352689319",
@@ -24315,7 +24346,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_4329785819229",
@@ -24337,7 +24369,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_4641120354397",
@@ -24394,13 +24427,14 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_4329785327709",
       "name": "Smooth Out",
       "brand": "Geek & Gorgeous",
-      "category": "メーカー未分類",
+      "category": "美容液",
       "price": "30.00",
       "currency": "EUR",
       "image_url": "https://cdn.shopify.com/s/files/1/0285/0111/4973/files/157_SmoothOut100ml-okmeret.jpg?v=1746450587",
@@ -24454,7 +24488,12 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "inci_592830b47266",
+        "inci_9799d9b8bac1"
+      ]
     },
     {
       "id": "catalog_geek_4329785589853",
@@ -24497,7 +24536,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_4329785557085",
@@ -24546,7 +24586,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_4329785491549",
@@ -24597,7 +24638,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_4329785426013",
@@ -24647,13 +24689,14 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_geek_4329785851997",
       "name": "B-Bomb",
       "brand": "Geek & Gorgeous",
-      "category": "メーカー未分類",
+      "category": "美容液",
       "price": "8.50",
       "currency": "EUR",
       "image_url": "https://cdn.shopify.com/s/files/1/0285/0111/4973/files/B-Bomb-web.jpg?v=1705586474",
@@ -24691,13 +24734,17 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "niacinamide"
+      ]
     },
     {
       "id": "catalog_geek_4329785786461",
       "name": "C-Glow",
       "brand": "Geek & Gorgeous",
-      "category": "メーカー未分類",
+      "category": "美容液",
       "price": "12.50",
       "currency": "EUR",
       "image_url": "https://cdn.shopify.com/s/files/1/0285/0111/4973/files/C-Glow-web.jpg?v=1705586494",
@@ -24732,7 +24779,11 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "vitamin_c"
+      ]
     },
     {
       "id": "catalog_boj_14997676851572",
@@ -24754,7 +24805,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15114575937908",
@@ -24776,7 +24828,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14887403684212",
@@ -24798,7 +24851,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_8774905692325",
@@ -24820,7 +24874,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_8774905790629",
@@ -24846,7 +24901,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14756411113844",
@@ -24872,7 +24928,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15129149210996",
@@ -24894,7 +24951,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15082971791732",
@@ -24916,7 +24974,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15250663145844",
@@ -24938,7 +24997,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15250632147316",
@@ -24964,7 +25024,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15080958722420",
@@ -24986,7 +25047,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_8774905299109",
@@ -25012,7 +25074,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_7312924803237",
@@ -25085,7 +25148,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14852498424180",
@@ -25107,7 +25171,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15080778760564",
@@ -25129,7 +25194,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14756501422452",
@@ -25151,7 +25217,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14756395450740",
@@ -25177,7 +25244,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15202409677172",
@@ -25199,7 +25267,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15128039391604",
@@ -25277,7 +25346,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15082965959028",
@@ -25299,7 +25369,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15030670918004",
@@ -25321,7 +25392,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15080782102900",
@@ -25343,7 +25415,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15030697230708",
@@ -25365,7 +25438,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15050036347252",
@@ -25387,7 +25461,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15030675210612",
@@ -25409,7 +25484,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15050020192628",
@@ -25431,7 +25507,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15016574157172",
@@ -25453,7 +25530,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_15016573927796",
@@ -25475,7 +25553,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14993799676276",
@@ -25501,7 +25580,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14990689796468",
@@ -25523,7 +25603,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14997674328436",
@@ -25545,7 +25626,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14997654864244",
@@ -25567,7 +25649,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14910710514036",
@@ -25589,7 +25672,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14905337184628",
@@ -25611,7 +25695,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14768632922484",
@@ -25725,7 +25810,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14752901890420",
@@ -25751,7 +25837,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_7749877465253",
@@ -25773,7 +25860,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_14660618813812",
@@ -25795,7 +25883,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_8867038757029",
@@ -25817,7 +25906,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_8774905135269",
@@ -25839,7 +25929,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_8637523034277",
@@ -25861,7 +25952,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_8637522903205",
@@ -25883,7 +25975,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_8520192164005",
@@ -25905,7 +25998,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_6874077036709",
@@ -25935,7 +26029,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_6874077659301",
@@ -25961,7 +26056,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_7575968481445",
@@ -25983,7 +26079,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_8459451007141",
@@ -26009,7 +26106,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_8076749308069",
@@ -26031,7 +26129,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_7774766760101",
@@ -26053,7 +26152,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_8227772858533",
@@ -26075,7 +26175,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_8076724535461",
@@ -26097,7 +26198,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_7915030446245",
@@ -26119,7 +26221,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_7540629569701",
@@ -26145,7 +26248,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_6874078544037",
@@ -26167,7 +26271,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_6874076479653",
@@ -26201,7 +26306,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_6874073989285",
@@ -26227,7 +26333,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_6805139226789",
@@ -26249,7 +26356,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_6805137195173",
@@ -26271,7 +26379,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_boj_6805117370533",
@@ -26297,7 +26406,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6988405506153",
@@ -26319,7 +26429,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_9413763203177",
@@ -26341,7 +26452,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_9393096622185",
@@ -26363,7 +26475,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_9388592660585",
@@ -26385,7 +26498,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_9387981308009",
@@ -26407,7 +26521,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_9387981111401",
@@ -26429,7 +26544,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_9379437215849",
@@ -26451,7 +26567,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_9379311583337",
@@ -26473,7 +26590,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7508087111785",
@@ -26495,7 +26613,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_9379266756713",
@@ -26517,7 +26636,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7583145099369",
@@ -26539,7 +26659,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6946122793065",
@@ -26561,7 +26682,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_9376730120297",
@@ -26583,7 +26705,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_9376729628777",
@@ -26605,7 +26728,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_9376728678505",
@@ -26627,7 +26751,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7181455523945",
@@ -26649,7 +26774,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7042858221673",
@@ -26671,7 +26797,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7553487274089",
@@ -26693,7 +26820,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6946122825833",
@@ -26715,7 +26843,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7434983014505",
@@ -26737,7 +26866,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7668460060777",
@@ -26759,7 +26889,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7668739932265",
@@ -26785,7 +26916,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7643102609513",
@@ -26807,7 +26939,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7642827980905",
@@ -26829,7 +26962,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7633648287849",
@@ -26851,7 +26985,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7583146770537",
@@ -26873,7 +27008,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7583143428201",
@@ -26895,7 +27031,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7583142117481",
@@ -26917,7 +27054,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7583141199977",
@@ -26939,7 +27077,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7574767698025",
@@ -26961,7 +27100,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7563579424873",
@@ -26983,7 +27123,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7563504255081",
@@ -27005,7 +27146,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7553485701225",
@@ -27027,7 +27169,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7553482588265",
@@ -27049,7 +27192,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7553459912809",
@@ -27071,7 +27215,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7540025393257",
@@ -27093,7 +27238,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7540024246377",
@@ -27115,7 +27261,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7528244248681",
@@ -27137,7 +27284,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7528238940265",
@@ -27159,7 +27307,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7528171569257",
@@ -27181,7 +27330,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7523072049257",
@@ -27203,7 +27353,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7508096745577",
@@ -27225,7 +27376,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7508093534313",
@@ -27247,7 +27399,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7492697849961",
@@ -27269,7 +27422,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7492648075369",
@@ -27291,7 +27445,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7488283738217",
@@ -27313,7 +27468,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7488268533865",
@@ -27335,7 +27491,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7488222789737",
@@ -27357,7 +27514,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7454160879721",
@@ -27383,7 +27541,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7423126700137",
@@ -27409,7 +27568,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7434979803241",
@@ -27431,7 +27591,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7432907161705",
@@ -27453,7 +27614,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7388732194921",
@@ -27475,7 +27637,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7387885174889",
@@ -27497,7 +27660,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6946108997737",
@@ -27519,7 +27683,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7042962194537",
@@ -27541,7 +27706,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7042961178729",
@@ -27563,7 +27729,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6946076786793",
@@ -27585,7 +27752,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7042959343721",
@@ -27607,7 +27775,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6985631793257",
@@ -27629,7 +27798,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6976853868649",
@@ -27651,7 +27821,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6945764769897",
@@ -27673,7 +27844,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6946077638761",
@@ -27695,7 +27867,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7372913967209",
@@ -27717,7 +27890,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7372910788713",
@@ -27739,7 +27913,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7372907118697",
@@ -27761,7 +27936,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7181522305129",
@@ -27783,7 +27959,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7181525844073",
@@ -27805,7 +27982,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7181464174697",
@@ -27827,7 +28005,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7174449332329",
@@ -27849,7 +28028,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7114302488681",
@@ -27871,7 +28051,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7112526561385",
@@ -27893,7 +28074,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7061568684137",
@@ -27915,7 +28097,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7042964062313",
@@ -27937,7 +28120,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6946077802601",
@@ -27959,7 +28143,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7042858844265",
@@ -27981,7 +28166,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7003945173097",
@@ -28003,7 +28189,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7003967455337",
@@ -28025,7 +28212,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_7003890483305",
@@ -28047,7 +28235,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6985631826025",
@@ -28069,7 +28258,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6946122989673",
@@ -28091,7 +28281,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6946123055209",
@@ -28113,7 +28304,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6946123022441",
@@ -28135,7 +28327,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6946122956905",
@@ -28157,7 +28350,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6946122924137",
@@ -28179,7 +28373,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_anua_6946122858601",
@@ -28201,7 +28396,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7804957950048",
@@ -28234,7 +28430,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7780472717408",
@@ -28327,7 +28524,12 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "inci_9c62d7bfb71e",
+        "niacinamide"
+      ]
     },
     {
       "id": "catalog_innisfree_7506542264416",
@@ -28430,7 +28632,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506539053152",
@@ -28522,7 +28725,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506537316448",
@@ -28627,7 +28831,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506522800224",
@@ -28712,7 +28917,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7763253428320",
@@ -28767,7 +28973,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7763084443744",
@@ -28810,7 +29017,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7763083198560",
@@ -28855,7 +29063,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7702998089824",
@@ -28929,7 +29138,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7686372950112",
@@ -28993,7 +29203,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7655662518368",
@@ -29046,7 +29257,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7668819689568",
@@ -29136,7 +29348,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7668818968672",
@@ -29204,7 +29417,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7668827390048",
@@ -29298,7 +29512,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7631303344224",
@@ -29399,7 +29614,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506543968352",
@@ -29523,7 +29739,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7559299858528",
@@ -29617,7 +29834,12 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "inci_9c62d7bfb71e",
+        "niacinamide"
+      ]
     },
     {
       "id": "catalog_innisfree_7559156170848",
@@ -29751,7 +29973,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7523820863584",
@@ -29856,7 +30079,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506520277088",
@@ -29897,7 +30121,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506520703072",
@@ -30005,7 +30230,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506534760544",
@@ -30067,7 +30293,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506743033952",
@@ -30116,7 +30343,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506702991456",
@@ -30192,7 +30420,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506702631008",
@@ -30264,7 +30493,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506543476832",
@@ -30373,7 +30603,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506542952544",
@@ -30497,7 +30728,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506542919776",
@@ -30611,7 +30843,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506542854240",
@@ -30732,7 +30965,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506542821472",
@@ -30824,7 +31058,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506542690400",
@@ -30857,7 +31092,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506542297184",
@@ -30922,7 +31158,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506542198880",
@@ -31053,7 +31290,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506541871200",
@@ -31109,7 +31347,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506542035040",
@@ -31131,7 +31370,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506541936736",
@@ -31153,7 +31393,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506541445216",
@@ -31175,7 +31416,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506541215840",
@@ -31197,7 +31439,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506540429408",
@@ -31219,7 +31462,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506540036192",
@@ -31245,7 +31489,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506539839584",
@@ -31271,7 +31516,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506538004576",
@@ -31293,7 +31539,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506538037344",
@@ -31315,7 +31562,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506537840736",
@@ -31337,7 +31585,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506537807968",
@@ -31359,7 +31608,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506537742432",
@@ -31381,7 +31631,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506537709664",
@@ -31403,7 +31654,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506537676896",
@@ -31425,7 +31677,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506537644128",
@@ -31447,7 +31700,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506537578592",
@@ -31469,7 +31723,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506537513056",
@@ -31491,7 +31746,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506537349216",
@@ -31513,7 +31769,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506537119840",
@@ -31535,7 +31792,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506536857696",
@@ -31557,7 +31815,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506534793312",
@@ -31579,7 +31838,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506534269024",
@@ -31609,7 +31869,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506534105184",
@@ -31631,7 +31892,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506534072416",
@@ -31653,7 +31915,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506533351520",
@@ -31675,7 +31938,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506533154912",
@@ -31697,7 +31961,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506533122144",
@@ -31719,7 +31984,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506532794464",
@@ -31741,7 +32007,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506532761696",
@@ -31763,7 +32030,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506531287136",
@@ -31797,7 +32065,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506530926688",
@@ -31819,7 +32088,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506530500704",
@@ -31841,7 +32111,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506529517664",
@@ -31863,7 +32134,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506526732384",
@@ -31893,7 +32165,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506526175328",
@@ -31915,7 +32188,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506526109792",
@@ -31945,7 +32219,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506526077024",
@@ -31967,7 +32242,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506526044256",
@@ -31989,7 +32265,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506524110944",
@@ -32019,7 +32296,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506523979872",
@@ -32049,7 +32327,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506524045408",
@@ -32071,7 +32350,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506524012640",
@@ -32093,7 +32373,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506522734688",
@@ -32115,7 +32396,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506522472544",
@@ -32137,7 +32419,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506521653344",
@@ -32159,7 +32442,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506521620576",
@@ -32181,7 +32465,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506520637536",
@@ -32203,7 +32488,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506520604768",
@@ -32225,7 +32511,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506520572000",
@@ -32247,7 +32534,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506520506464",
@@ -32269,7 +32557,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506520408160",
@@ -32291,7 +32580,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506520342624",
@@ -32313,7 +32603,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506520146016",
@@ -32335,7 +32626,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506520047712",
@@ -32357,7 +32649,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506519883872",
@@ -32387,7 +32680,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506517753952",
@@ -32409,7 +32703,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506517590112",
@@ -32431,7 +32726,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506515460192",
@@ -32453,7 +32749,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506515427424",
@@ -32475,7 +32772,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506515329120",
@@ -32497,7 +32795,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_innisfree_7506515361888",
@@ -32519,7 +32818,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9405062971608",
@@ -32541,7 +32841,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9405468377304",
@@ -32563,7 +32864,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9405477388504",
@@ -32585,7 +32887,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9405488267480",
@@ -32607,7 +32910,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9405491085528",
@@ -32629,7 +32933,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9405495443672",
@@ -32651,7 +32956,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9405491380440",
@@ -32673,7 +32979,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9405496033496",
@@ -32695,7 +33002,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9461310947544",
@@ -32717,7 +33025,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6128185344156",
@@ -32743,7 +33052,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9461307769048",
@@ -32765,7 +33075,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_7705047597272",
@@ -32787,7 +33098,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9462095872216",
@@ -32809,7 +33121,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9426643583192",
@@ -32831,7 +33144,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9405474046168",
@@ -32853,7 +33167,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9459247841496",
@@ -32875,7 +33190,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9459247874264",
@@ -32897,7 +33213,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9426646991064",
@@ -32919,7 +33236,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9426648596696",
@@ -32941,7 +33259,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9462111207640",
@@ -32967,7 +33286,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9405480665304",
@@ -32997,7 +33317,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9461692956888",
@@ -33019,7 +33340,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9461285716184",
@@ -33041,7 +33363,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9462199320792",
@@ -33071,7 +33394,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9490154520792",
@@ -33101,7 +33425,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9462203351256",
@@ -33123,7 +33448,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9462199943384",
@@ -33149,7 +33475,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9461297381592",
@@ -33171,7 +33498,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9461315829976",
@@ -33193,7 +33521,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9461318844632",
@@ -33219,7 +33548,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9462066053336",
@@ -33245,7 +33575,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9462091120856",
@@ -33267,7 +33598,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9462187262168",
@@ -33289,7 +33621,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9462309650648",
@@ -33315,7 +33648,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_7916040421592",
@@ -33337,7 +33671,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9413820612824",
@@ -33367,7 +33702,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9413788926168",
@@ -33413,7 +33749,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9413742002392",
@@ -33459,7 +33796,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9435746304216",
@@ -33481,7 +33819,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9416644886744",
@@ -33503,7 +33842,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9416537309400",
@@ -33525,7 +33865,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9416531640536",
@@ -33547,7 +33888,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9435697414360",
@@ -33569,7 +33911,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9415802880216",
@@ -33599,7 +33942,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9415801733336",
@@ -33629,7 +33973,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9413724438744",
@@ -33659,7 +34004,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9413709037784",
@@ -33689,7 +34035,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9413669093592",
@@ -33719,7 +34066,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9394648187096",
@@ -33749,7 +34097,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9424556458200",
@@ -33779,7 +34128,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9415775682776",
@@ -33809,7 +34159,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9230936342744",
@@ -33831,7 +34182,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9230935359704",
@@ -33853,7 +34205,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9230936604888",
@@ -33899,7 +34252,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6136489443484",
@@ -33921,7 +34275,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9393574314200",
@@ -33943,7 +34298,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101925331100",
@@ -33965,7 +34321,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9294145028312",
@@ -33987,7 +34344,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9173963899096",
@@ -34009,7 +34367,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9291559567576",
@@ -34031,7 +34390,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9291624513752",
@@ -34053,7 +34413,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9291653218520",
@@ -34075,7 +34436,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9146696794328",
@@ -34097,7 +34459,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9146696073432",
@@ -34119,7 +34482,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_7709569810648",
@@ -34141,7 +34505,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9166036599000",
@@ -34163,7 +34528,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9134576763096",
@@ -34185,7 +34551,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9221992939736",
@@ -34207,7 +34574,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9221982847192",
@@ -34229,7 +34597,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9178276004056",
@@ -34251,7 +34620,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9130276126936",
@@ -34273,7 +34643,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9173952626904",
@@ -34295,7 +34666,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9091419308248",
@@ -34317,7 +34689,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9091419111640",
@@ -34339,7 +34712,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9081663095000",
@@ -34361,7 +34735,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9087153012952",
@@ -34383,7 +34758,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9087061688536",
@@ -34405,7 +34781,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9086826709208",
@@ -34427,7 +34804,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9072734372056",
@@ -34457,7 +34835,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9074593464536",
@@ -34479,7 +34858,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_9072896049368",
@@ -34501,7 +34881,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6110947639452",
@@ -34527,7 +34908,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_8884617576664",
@@ -34549,7 +34931,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_8959174508760",
@@ -34575,7 +34958,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_8959174344920",
@@ -34601,7 +34985,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_8915607093464",
@@ -34623,7 +35008,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_8382442406104",
@@ -34645,7 +35031,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_8382441717976",
@@ -34667,7 +35054,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_8375110533336",
@@ -34693,7 +35081,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_8895937577176",
@@ -34715,7 +35104,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_8895931547864",
@@ -34737,7 +35127,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6122389274780",
@@ -34759,7 +35150,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_7989284929752",
@@ -34781,7 +35173,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_7709570040024",
@@ -34803,7 +35196,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_7978918314200",
@@ -34825,7 +35219,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_7954467225816",
@@ -34847,7 +35242,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_7549478469848",
@@ -34869,7 +35265,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6736437903516",
@@ -34891,7 +35288,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6122672226460",
@@ -34921,7 +35319,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101922218140",
@@ -34943,7 +35342,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101925101724",
@@ -34965,7 +35365,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101922414748",
@@ -34995,7 +35396,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6724614324380",
@@ -35017,7 +35419,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101928509596",
@@ -35043,7 +35446,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_7731011354840",
@@ -35065,7 +35469,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_7684765909208",
@@ -35087,7 +35492,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101926477980",
@@ -35109,7 +35515,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6128211558556",
@@ -35131,7 +35538,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6916313677980",
@@ -35153,7 +35561,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6916315021468",
@@ -35175,7 +35584,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6110954979484",
@@ -35197,7 +35607,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6817324499100",
@@ -35219,7 +35630,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6736429744284",
@@ -35241,7 +35653,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6724444782748",
@@ -35263,7 +35676,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6724428923036",
@@ -35285,7 +35699,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6708223967388",
@@ -35307,7 +35722,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6128216015004",
@@ -35329,7 +35745,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6127599255708",
@@ -35351,7 +35768,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6122394386588",
@@ -35373,7 +35791,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6122375512220",
@@ -35395,7 +35814,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6122159636636",
@@ -35417,7 +35837,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101928804508",
@@ -35439,7 +35860,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101928280220",
@@ -35461,7 +35883,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101927657628",
@@ -35483,7 +35906,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101924806812",
@@ -35505,7 +35929,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101924479132",
@@ -35531,7 +35956,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101924151452",
@@ -35553,7 +35979,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101923889308",
@@ -35575,7 +36002,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101923823772",
@@ -35597,7 +36025,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101923725468",
@@ -35619,7 +36048,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101923561628",
@@ -35641,7 +36071,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101923299484",
@@ -35667,7 +36098,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101922807964",
@@ -35689,7 +36121,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101922119836",
@@ -35711,7 +36144,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_cosrx_6101921824924",
@@ -35733,7 +36167,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_15402406478037",
@@ -35755,7 +36190,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_15402406314197",
@@ -35777,7 +36213,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_15402406379733",
@@ -35799,7 +36236,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9553456005333",
@@ -35821,7 +36259,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540194005",
@@ -35847,7 +36286,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9573542985941",
@@ -35869,7 +36309,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9540966514901",
@@ -35891,7 +36332,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9444799283413",
@@ -35913,7 +36355,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9444709499093",
@@ -35935,7 +36378,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9444699635925",
@@ -35957,7 +36401,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9444615913685",
@@ -35979,7 +36424,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9444303995093",
@@ -36001,7 +36447,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9444274766037",
@@ -36023,7 +36470,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9444256448725",
@@ -36045,7 +36493,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9520131440853",
@@ -36067,7 +36516,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9553392795861",
@@ -36089,7 +36539,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361548935381",
@@ -36115,7 +36566,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9430639902933",
@@ -36137,7 +36589,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9430639870165",
@@ -36159,7 +36612,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9430639837397",
@@ -36181,7 +36635,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9429738684629",
@@ -36203,7 +36658,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9429514780885",
@@ -36225,7 +36681,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9429494726869",
@@ -36247,7 +36704,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9425332371669",
@@ -36269,7 +36727,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9412122640597",
@@ -36295,7 +36754,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9412122575061",
@@ -36317,7 +36777,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9391546892501",
@@ -36339,7 +36800,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9391546826965",
@@ -36361,7 +36823,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361642586325",
@@ -36387,7 +36850,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361626267861",
@@ -36417,7 +36881,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361623318741",
@@ -36439,7 +36904,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361615421653",
@@ -36469,7 +36935,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361610965205",
@@ -36495,7 +36962,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361603363029",
@@ -36521,7 +36989,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361600741589",
@@ -36543,7 +37012,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361598218453",
@@ -36565,7 +37035,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361596612821",
@@ -36587,7 +37058,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361592025301",
@@ -36609,7 +37081,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361591959765",
@@ -36635,7 +37108,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361589960917",
@@ -36661,7 +37135,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361581965525",
@@ -36687,7 +37162,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361557192917",
@@ -36709,7 +37185,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361552900309",
@@ -36731,7 +37208,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361546969301",
@@ -36757,7 +37235,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361540645077",
@@ -36787,7 +37266,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361535795413",
@@ -36813,7 +37293,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361528619221",
@@ -36839,7 +37320,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361524490453",
@@ -36865,7 +37347,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361518756053",
@@ -36895,7 +37378,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361516757205",
@@ -36925,7 +37409,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9361516593365",
@@ -36951,7 +37436,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9357330153685",
@@ -36977,7 +37463,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540456149",
@@ -36999,7 +37486,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540816597",
@@ -37021,7 +37509,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540128469",
@@ -37043,7 +37532,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262541242581",
@@ -37065,7 +37555,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542618837",
@@ -37091,7 +37582,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540980437",
@@ -37121,7 +37613,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540619989",
@@ -37143,7 +37636,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542422229",
@@ -37165,7 +37659,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540095701",
@@ -37191,7 +37686,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542749909",
@@ -37217,7 +37713,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542651605",
@@ -37243,7 +37740,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262541504725",
@@ -37265,7 +37763,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540587221",
@@ -37291,7 +37790,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262541111509",
@@ -37313,7 +37813,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540357845",
@@ -37339,7 +37840,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540521685",
@@ -37365,7 +37867,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542127317",
@@ -37387,7 +37890,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540652757",
@@ -37409,7 +37913,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542717141",
@@ -37435,7 +37940,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262543143125",
@@ -37461,7 +37967,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262543012053",
@@ -37487,7 +37994,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262543044821",
@@ -37513,7 +38021,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542094549",
@@ -37539,7 +38048,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262541078741",
@@ -37565,7 +38075,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262541209813",
@@ -37595,7 +38106,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542782677",
@@ -37621,7 +38133,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542291157",
@@ -37647,7 +38160,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542586069",
@@ -37673,7 +38187,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262541766869",
@@ -37695,7 +38210,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542061781",
@@ -37717,7 +38233,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540259541",
@@ -37743,7 +38260,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262540423381",
@@ -37769,7 +38287,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262541537493",
@@ -37795,7 +38314,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262541832405",
@@ -37817,7 +38337,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542192853",
@@ -37843,7 +38364,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262541603029",
@@ -37869,7 +38391,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262541275349",
@@ -37895,7 +38418,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262543601877",
@@ -37921,7 +38445,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262543569109",
@@ -37947,7 +38472,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542487765",
@@ -37973,7 +38499,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262543077589",
@@ -37999,7 +38526,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262543536341",
@@ -38025,7 +38553,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262541996245",
@@ -38051,7 +38580,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262543634645",
@@ -38085,7 +38615,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542258389",
@@ -38111,7 +38642,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262543306965",
@@ -38145,7 +38677,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542160085",
@@ -38171,7 +38704,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542553301",
@@ -38197,7 +38731,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262542848213",
@@ -38219,7 +38754,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262541308117",
@@ -38245,7 +38781,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "catalog_paula_9262543110357",
@@ -38271,7 +38808,8 @@
         }
       ],
       "source": "メーカー公式カタログ",
-      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。"
+      "price_note": "取得時点のメーカー表示。国内販売価格とは異なる場合があります。",
+      "concern_listing_eligible": false
     },
     {
       "id": "p_curel_40",
@@ -38290,7 +38828,8 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": false
     },
     {
       "id": "p_hadalabo_hari_170",
@@ -38307,7 +38846,8 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": false
     },
     {
       "id": "p_elixir_ba_s_15",
@@ -38325,7 +38865,8 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": false
     },
     {
       "id": "p_carecera_200",
@@ -38342,7 +38883,8 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": false
     },
     {
       "id": "p_hadalabo_gokujun_170",
@@ -38359,13 +38901,14 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": false
     },
     {
       "id": "p_transino_serum_30",
       "name": "トランシーノ薬用メラノシグナルエッセンス",
       "brand": "トランシーノ",
-      "category": "quasi_drug",
+      "category": "美容液",
       "price": null,
       "currency": "JPY",
       "image_url": "https://www.daiichisankyo-hc.co.jp/site_transino/assets/images/products/020104/img_item.jpg",
@@ -38376,13 +38919,17 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "tranexamic"
+      ]
     },
     {
       "id": "p_transino_lotion",
       "name": "トランシーノ薬用ブライトニングクリアローション",
       "brand": "トランシーノ",
-      "category": "quasi_drug",
+      "category": "化粧水",
       "price": null,
       "currency": "JPY",
       "image_url": "https://www.daiichisankyo-hc.co.jp/site_transino/assets/images/products/020103/img_item.jpg",
@@ -38393,7 +38940,11 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "tranexamic"
+      ]
     },
     {
       "id": "p_transino_milk",
@@ -38410,7 +38961,8 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": false
     },
     {
       "id": "p_transino_cream",
@@ -38427,13 +38979,14 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": false
     },
     {
       "id": "p_melanocc_premium_20",
       "name": "メラノCC 薬用しみ集中対策 プレミアム美容液",
       "brand": "メラノCC",
-      "category": "quasi_drug",
+      "category": "美容液",
       "price": null,
       "currency": "JPY",
       "image_url": "https://jp.rohto.com/-/media/com/melanocc/premium-essence/img_168583_02.jpg?sc_lang=ja-jp",
@@ -38445,13 +38998,17 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "vitamin_c"
+      ]
     },
     {
       "id": "p_effaclar_30",
       "name": "エファクラ ピールケア セラム",
       "brand": "ラ ロッシュ ポゼ",
-      "category": "cosmetic",
+      "category": "美容液",
       "price": null,
       "currency": "JPY",
       "image_url": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BCKQ_STG/on/demandware.static/-/Sites-lrp-jp-ng-Library/ja_JP/v4adc19afdfdd5b21736fcf25286b9273c610f5b7/images/plp/effaclarserum_single/LRPJP-eff-product_2_sp_231220.png",
@@ -38464,7 +39021,11 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "salicylic"
+      ]
     },
     {
       "id": "p_drx_aza_15",
@@ -38481,7 +39042,8 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": false
     },
     {
       "id": "p_baby_vaseline_60",
@@ -38498,13 +39060,14 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": false
     },
     {
       "id": "p_muji_wrinkle_50",
       "name": "薬用リンクルブライト美容液",
       "brand": "無印良品",
-      "category": "quasi_drug",
+      "category": "美容液",
       "price": null,
       "currency": "JPY",
       "image_url": "https://www.muji.com/public/media/img/item/4550583991647_01_org.jpg",
@@ -38515,13 +39078,17 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "niacinamide"
+      ]
     },
     {
       "id": "p_chifure_vcar_30",
       "name": "美白美容液 VC&AR",
       "brand": "ちふれ",
-      "category": "quasi_drug",
+      "category": "美容液",
       "price": null,
       "currency": "JPY",
       "image_url": "https://www.chifure.co.jp/wp/wp-content/uploads/2023/12/7d91a78412fa6bf713a96d4c79126ce5.png",
@@ -38535,7 +39102,11 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "vitamin_c"
+      ]
     },
     {
       "id": "p_matsuyama_cream_50",
@@ -38552,13 +39123,14 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": false
     },
     {
       "id": "p_kiehls_rtn_50",
       "name": "キールズ DS RTN リニューイング セラム",
       "brand": "KIEHL'S（キールズ）",
-      "category": "cosmetic",
+      "category": "美容液",
       "price": null,
       "currency": "JPY",
       "image_url": "https://www.kiehls.jp/dw/image/v2/BCKQ_PRD/on/demandware.static/-/Sites-kiehls-master/default/dw45807dd4/Kiehls_ECOMM_2000/SKIN_CARE/Serums/Retinol_Skin-Renewing_Daily_Micro-Dose/3605972526489_retinol_skin-renewing_daily_micro-dose_serum_50ml_20210820.jpg?q=70&sfrm=jpg&sh=320&sm=cut&sw=320",
@@ -38571,13 +39143,17 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "retinol"
+      ]
     },
     {
       "id": "p_innisfree_rt_30",
       "name": "レチノール シカ リペア セラム",
       "brand": "innisfree（イニスフリー）",
-      "category": "cosmetic",
+      "category": "美容液",
       "price": null,
       "currency": "JPY",
       "image_url": "https://www.innisfree.jp/cdn/shop/files/pdp_mig_product-1687_ID0101_2.jpg?v=1776440468&width=600",
@@ -38591,13 +39167,17 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "retinol"
+      ]
     },
     {
       "id": "p_anua_az_30",
       "name": "アゼライン酸15 インテンスカーミングセラム",
       "brand": "Anua（アヌア）",
-      "category": "cosmetic",
+      "category": "美容液",
       "price": null,
       "currency": "JPY",
       "image_url": "https://anuashop.jp/cdn/shop/files/anua--15-30ml-1241065821.png?v=1780320492&width=600",
@@ -38612,13 +39192,17 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "azelaic"
+      ]
     },
     {
       "id": "p_haku_iv_45",
       "name": "HAKU メラノフォーカスIV",
       "brand": "HAKU",
-      "category": "quasi_drug",
+      "category": "美容液",
       "price": null,
       "currency": "JPY",
       "image_url": "https://www.shiseido.co.jp/haku/shared/img/lineup/melanofocusiv/slide_02.jpg?v=2604",
@@ -38630,13 +39214,17 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "tranexamic"
+      ]
     },
     {
       "id": "p_dermacept_aza_15",
       "name": "ダーマセプトRX AZAセラム",
       "brand": "ダーマセプトRX",
-      "category": "cosmetic",
+      "category": "美容液",
       "price": null,
       "currency": "JPY",
       "image_url": "https://jp.rohto.com/-/media/com/dermacept-rx/aza/img_192342_01.jpg",
@@ -38647,7 +39235,11 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "azelaic"
+      ]
     },
     {
       "id": "p_dermacept_hq_6",
@@ -38664,13 +39256,14 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": false
     },
     {
       "id": "p_obagi_c25_12",
       "name": "オバジ C25セラム ネオ",
       "brand": "Obagi（オバジ）",
-      "category": "cosmetic",
+      "category": "美容液",
       "price": null,
       "currency": "JPY",
       "image_url": "https://www.obagi.co.jp/-/media/com/obagi/c25/img_199891_01.jpg",
@@ -38681,7 +39274,11 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": true,
+      "concern_ingredient_ids": [
+        "vitamin_c"
+      ]
     },
     {
       "id": "p_orbis_clear_l_180",
@@ -38698,7 +39295,611 @@
       ],
       "full_ingredients": [],
       "formula_complete": false,
-      "source": "既存のメーカー確認データ"
+      "source": "既存のメーカー確認データ",
+      "concern_listing_eligible": false
+    },
+    {
+      "id": "review_cdb_8398914224299",
+      "name": "アゼライン酸5% 化粧水",
+      "brand": "Cos De BAHA",
+      "category": "化粧水",
+      "price": "16.00",
+      "currency": "USD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0055/3238/5354/files/01copy_4ae2d220-49d8-4e9b-97ed-61c4f9809496.jpg?v=1743771135",
+      "url": "https://www.cosdebaha.com/products/azelaic-acid-5-toner-for-face-with-niacinamide-rosacea-skin-care-pore-tightening-acne-scar-dark-spot-redness-treatment-200ml",
+      "affiliate_url": null,
+      "ingredient_ids": [
+        "inci_5a686ad50ecc",
+        "azelaic",
+        "niacinamide",
+        "inci_a1622d5eb69d",
+        "inci_b621f8ba05d3",
+        "inci_1dffaeb6d6ae",
+        "inci_d22512f612b7",
+        "inci_fc50f3a9dbf5",
+        "allantoin",
+        "inci_8422be0089b0",
+        "inci_174f04627c3d",
+        "inci_a127513de514",
+        "inci_faaa486500db",
+        "inci_8b13f39cc09a",
+        "inci_a8437610f50d"
+      ],
+      "full_ingredients": [
+        "Water/Aqua",
+        "Butylene Glycol",
+        "Azelaic Acid",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Sodium Hydroxide",
+        "Polysorbate 20",
+        "Glycerin",
+        "Betaine",
+        "Dimethyl Sulfone",
+        "Panthenol",
+        "Dipotassium Glycyrrhizate",
+        "Allantoin",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Hyaluronic Acid",
+        "Centella Asiatica Extract",
+        "Madecassoside",
+        "Polyglyceryl-10 Laurate",
+        "Camellia Sinensis Leaf Extract",
+        "Sambucus Nigra Flower Extract",
+        "Momordica Charantia Fruit Extract",
+        "Leontopodium Alpinum Extract"
+      ],
+      "formula_complete": true,
+      "source": "メーカー公式の全成分・商品情報",
+      "source_checked_at": "2026-10-04",
+      "regulatory_class": "JP_unverified",
+      "concern_ingredient_ids": [
+        "azelaic"
+      ],
+      "concern_listing_eligible": true,
+      "review_note": "海外向け処方。国内医薬部外品の効能とは区別。濃度はメーカー表示。"
+    },
+    {
+      "id": "review_cdb_8257523777707",
+      "name": "トラネキサム酸3% 化粧水",
+      "brand": "Cos De BAHA",
+      "category": "化粧水",
+      "price": "15.85",
+      "currency": "USD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0055/3238/5354/files/amazon_T3_200_box.jpg?v=1728912477",
+      "url": "https://www.cosdebaha.com/products/advanced-3-tranexamic-acid-facial-toner-with-hyaluronic-acid-for-balanced-hydrated-skin-200ml",
+      "affiliate_url": null,
+      "ingredient_ids": [
+        "inci_fcbeb9c1e123",
+        "tranexamic",
+        "inci_5a686ad50ecc",
+        "inci_a1622d5eb69d",
+        "inci_d22512f612b7",
+        "inci_fc50f3a9dbf5",
+        "inci_8422be0089b0",
+        "inci_174f04627c3d",
+        "allantoin",
+        "inci_faaa486500db",
+        "inci_97cae3a7d072",
+        "inci_a9820c0a0b40",
+        "inci_46817b2aa9d9",
+        "inci_78fb4d05482a",
+        "inci_c81ae81cc2cd",
+        "inci_a66bf04cafbd",
+        "inci_a8437610f50d"
+      ],
+      "full_ingredients": [
+        "Water/Aqua",
+        "Propanediol",
+        "Tranexamic Acid",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Betaine",
+        "Panthenol",
+        "Dipotassium Glycyrrhizate",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Hyaluronic Acid",
+        "Allantoin",
+        "Ascorbyl Glucoside",
+        "Madecassoside",
+        "Glutathione",
+        "Gluconolactone",
+        "Dipropylene Glycol",
+        "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+        "Tromethamine",
+        "Caprylyl Glycol",
+        "Tropolone",
+        "Camellia Sinensis Leaf Extract",
+        "Sambucus Nigra Flower Extract",
+        "Momordica Charantia Fruit Extract",
+        "Leontopodium Alpinum Extract"
+      ],
+      "formula_complete": true,
+      "source": "メーカー公式の全成分・商品情報",
+      "source_checked_at": "2026-10-04",
+      "regulatory_class": "JP_unverified",
+      "concern_ingredient_ids": [
+        "tranexamic"
+      ],
+      "concern_listing_eligible": true,
+      "review_note": "海外向け処方。国内医薬部外品の効能とは区別。濃度はメーカー表示。"
+    },
+    {
+      "id": "review_cdb_7851098243243",
+      "name": "レチノール0.5%＋バクチオール2% 美容液",
+      "brand": "Cos De BAHA",
+      "category": "美容液",
+      "price": "20.00",
+      "currency": "USD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0055/3238/5354/files/amazon_L2_02.png?v=1704895406",
+      "url": "https://www.cosdebaha.com/products/retinol-0-5-bakuchiol-2-serum-with-retinol-for-face-anti-aging-hyperpigmentation-and-acne-flare-ups-1-fl-oz-30ml",
+      "affiliate_url": null,
+      "ingredient_ids": [
+        "inci_ca2d50d680c0",
+        "inci_fcbeb9c1e123",
+        "inci_0ab1cb5ebc95",
+        "niacinamide",
+        "inci_52e929a5b9e7",
+        "inci_395c2098c32e",
+        "retinol",
+        "inci_a1622d5eb69d",
+        "inci_fc50f3a9dbf5",
+        "inci_e67494718bfa",
+        "allantoin",
+        "inci_8422be0089b0",
+        "inci_5a686ad50ecc",
+        "inci_a8437610f50d",
+        "inci_28d6d07d35eb",
+        "inci_00b678d594e4",
+        "inci_a66bf04cafbd",
+        "inci_c81ae81cc2cd",
+        "inci_eccb0b5cc17b",
+        "inci_1dffaeb6d6ae",
+        "inci_3fc510dca8ab"
+      ],
+      "full_ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Propanediol",
+        "Glycerin",
+        "Isononyl Isononanoate",
+        "Dimethicone",
+        "Niacinamide",
+        "Bakuchiol",
+        "Cetearyl Alcohol",
+        "Retinol",
+        "CetearylOlivate",
+        "Sorbitan Olivate",
+        "1,2-Hexanediol",
+        "Panthenol",
+        "Tocopheryl Acetate",
+        "Allantoin",
+        "Sodium Hyaluronate",
+        "Water",
+        "Butylene Glycol",
+        "Artemisia Vulgaris Extract",
+        "Melissa Officinalis Leaf Extract",
+        "Lavandula Angustifolia (Lavender) Flower Extract",
+        "Rosa Damascena Extract",
+        "Camellia Sinensis Leaf Extract",
+        "Xanthan Gum",
+        "Adenosine",
+        "Caprylyl Glycol",
+        "Tromethamine",
+        "Carbomer",
+        "Polysorbate 20",
+        "Disodium EDTA",
+        "Tropolone *Mark : N.O.I.P 73%"
+      ],
+      "formula_complete": true,
+      "source": "メーカー公式の全成分・商品情報",
+      "source_checked_at": "2026-10-04",
+      "regulatory_class": "JP_unverified",
+      "concern_ingredient_ids": [
+        "retinol"
+      ],
+      "concern_listing_eligible": true,
+      "review_note": "海外向け処方。国内医薬部外品の効能とは区別。濃度はメーカー表示。"
+    },
+    {
+      "id": "review_cdb_7839559516331",
+      "name": "C1 セラミド＋ナイアシンアミド美容液",
+      "brand": "Cos De BAHA",
+      "category": "美容液",
+      "price": "16.70",
+      "currency": "USD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0055/3238/5354/files/amazon_C1_cream_02.png?v=1703680306",
+      "url": "https://www.cosdebaha.com/products/c1-ceramide-niacinamide-serum-skin-nourishment-hydration-vitality-1-5-fl-oz-45ml",
+      "affiliate_url": null,
+      "ingredient_ids": [
+        "inci_a127513de514",
+        "inci_fcbeb9c1e123",
+        "inci_395c2098c32e",
+        "inci_3cba9adde458",
+        "inci_0ab1cb5ebc95",
+        "niacinamide",
+        "inci_e67494718bfa",
+        "inci_06ca0dd1a44f",
+        "inci_9c62d7bfb71e",
+        "inci_042f52c5038f",
+        "inci_d72bee2f50ef",
+        "inci_ca0e7af31113",
+        "inci_a66bf04cafbd",
+        "inci_a1622d5eb69d",
+        "inci_ce5d3b61b03e",
+        "inci_fc50f3a9dbf5",
+        "inci_ca2d50d680c0",
+        "allantoin",
+        "inci_faaa486500db",
+        "inci_00b678d594e4",
+        "inci_5a686ad50ecc",
+        "inci_8422be0089b0",
+        "inci_a8437610f50d"
+      ],
+      "full_ingredients": [
+        "Centella Asiatica Extract",
+        "Propanediol",
+        "Glycerin",
+        "Cetearyl Alcohol",
+        "Caprylic/Capric Triglyceride",
+        "Dimethicone",
+        "Hydrogenated Polydecene",
+        "Isononyl Isononanoate",
+        "Niacinamide",
+        "Tocopheryl Acetate",
+        "Cetearyl Olivate",
+        "Cetyl Ethylhexanoate",
+        "Ceramide NP",
+        "Tocopherol",
+        "Sorbitan Olivate",
+        "Glyceryl Stearate",
+        "Cetearyl Glucoside",
+        "Polysorbate 60",
+        "Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+        "Water",
+        "Caprylyl Glycol",
+        "1,2-Hexanediol",
+        "Squalane",
+        "Panthenol",
+        "Aloe Barbadensis Leaf Extract",
+        "Allantoin",
+        "Madecassoside",
+        "Dipotassium Glycyrrhizate",
+        "Adenosine",
+        "Butylene Glycol",
+        "Sodium Hyaluronate",
+        "Tropolone",
+        "Artemisia Vulgaris Extract",
+        "Melissa Officinalis Leaf Extract",
+        "Lavandula Angustifolia (Lavender) Flower Extract",
+        "Rosa Damascena Extract",
+        "Camellia Sinensis Leaf Extract"
+      ],
+      "formula_complete": true,
+      "source": "メーカー公式の全成分・商品情報",
+      "source_checked_at": "2026-10-04",
+      "regulatory_class": "JP_unverified",
+      "concern_ingredient_ids": [
+        "ceramide"
+      ],
+      "concern_listing_eligible": true,
+      "review_note": "海外向け処方。国内医薬部外品の効能とは区別。濃度はメーカー表示。"
+    },
+    {
+      "id": "review_cdb_7375359246507",
+      "name": "TN トラネキサム酸5%＋ナイアシンアミド5% 美容液",
+      "brand": "Cos De BAHA",
+      "category": "美容液",
+      "price": "19.54",
+      "currency": "USD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0055/3238/5354/products/amazon_TN60_02.png?v=1657008897",
+      "url": "https://www.cosdebaha.com/products/tranexamic-acid-5-serum-with-niacinamide-5-for-face-neck-helps-to-reduce-the-look-of-hyper-pigmentation-discoloration-dark-spots-remover-melasma-1-fl-oz-1",
+      "affiliate_url": null,
+      "ingredient_ids": [
+        "tranexamic",
+        "niacinamide",
+        "inci_d22512f612b7",
+        "inci_fcbeb9c1e123",
+        "inci_a1622d5eb69d",
+        "inci_8422be0089b0",
+        "allantoin",
+        "inci_28d6d07d35eb",
+        "inci_42ed4796f91b"
+      ],
+      "full_ingredients": [
+        "Aloe Barbadensis Leaf Ext",
+        "Tranexamic Acid",
+        "Niacinamide",
+        "Glycereth-26",
+        "Betaine",
+        "Propanediol",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate",
+        "Allantoin",
+        "Xanthan Gum",
+        "Citric Acid",
+        "Camellia Sinensis Leaf Ext",
+        "Sambucus Nigra Flower Ext",
+        "Momordica Charantia Fruit Ext",
+        "Leontopodium Alpinum Ext"
+      ],
+      "formula_complete": true,
+      "source": "メーカー公式の全成分・商品情報",
+      "source_checked_at": "2026-10-04",
+      "regulatory_class": "JP_unverified",
+      "concern_ingredient_ids": [
+        "tranexamic",
+        "niacinamide"
+      ],
+      "concern_listing_eligible": true,
+      "review_note": "海外向け処方。国内医薬部外品の効能とは区別。濃度はメーカー表示。"
+    },
+    {
+      "id": "review_cdb_7573067727019",
+      "name": "S2 サリチル酸2% 美容液",
+      "brand": "Cos De BAHA",
+      "category": "美容液",
+      "price": "12.16",
+      "currency": "USD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0055/3238/5354/products/amazon_SS_02.png?v=1675253506",
+      "url": "https://www.cosdebaha.com/products/only-salicylic-acid-2-exfoliant-facial-serum-with-niacinamide-bha-for-peel-acne-spot-treatment-pore-cleaner-pore-refining-resurfacing-alcohol-free-1-fl-oz-30ml",
+      "affiliate_url": null,
+      "ingredient_ids": [
+        "inci_ca2d50d680c0",
+        "inci_fcbeb9c1e123",
+        "niacinamide",
+        "salicylic",
+        "inci_a1622d5eb69d",
+        "inci_a8437610f50d",
+        "inci_1dffaeb6d6ae",
+        "inci_a615dc986c91",
+        "inci_1e49a6d1f496"
+      ],
+      "full_ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Propanediol",
+        "Niacinamide",
+        "Salicylic Acid",
+        "1,2-Hexanediol",
+        "Camellia Sinensis Leaf Extract",
+        "Leontopodium Alpinum Extract",
+        "Momordica Charantia Fruit Extract",
+        "Sambucus Nigra Flower Extract",
+        "Polysorbate 20",
+        "Sodium Citrate",
+        "Hydroxyethylcellulose"
+      ],
+      "formula_complete": true,
+      "source": "メーカー公式の全成分・商品情報",
+      "source_checked_at": "2026-10-04",
+      "regulatory_class": "JP_unverified",
+      "concern_ingredient_ids": [
+        "salicylic"
+      ],
+      "concern_listing_eligible": true,
+      "review_note": "海外向け処方。国内医薬部外品の効能とは区別。濃度はメーカー表示。"
+    },
+    {
+      "id": "review_cdb_3486357979210",
+      "name": "ナイアシンアミド5% 化粧水",
+      "brand": "Cos De BAHA",
+      "category": "化粧水",
+      "price": "15.39",
+      "currency": "USD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0055/3238/5354/products/71eW1vpNdUL.jpg?v=1555237255",
+      "url": "https://www.cosdebaha.com/products/cos-de-baha-niacinamide-5-pore-fade-toner-6-76oz-w-panthenol-1-korean-skin-care-for-pore-minimizer-vitamin-b3-for-brightening-uneven-skin-tone-treatment-diminishes-acne-prone-6-76oz-200ml",
+      "affiliate_url": null,
+      "ingredient_ids": [
+        "inci_ca2d50d680c0",
+        "inci_fcbeb9c1e123",
+        "niacinamide",
+        "inci_a1622d5eb69d",
+        "inci_fc50f3a9dbf5",
+        "allantoin",
+        "inci_a8437610f50d"
+      ],
+      "full_ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Propanediol",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Glycerin",
+        "Panthenol",
+        "Sodium Hyaluronte",
+        "Glycyrrhiza Glabra (Licorice) Root Extract",
+        "Allantoin",
+        "Camellia Sinensis Leaf Extract",
+        "Momordica Charantia Fruit Extract",
+        "Sambucus Nigra Flower Extract",
+        "Leontopodium Alpinum Extract"
+      ],
+      "formula_complete": true,
+      "source": "メーカー公式の全成分・商品情報",
+      "source_checked_at": "2026-10-04",
+      "regulatory_class": "JP_unverified",
+      "concern_ingredient_ids": [
+        "niacinamide"
+      ],
+      "concern_listing_eligible": true,
+      "review_note": "海外向け処方。国内医薬部外品の効能とは区別。濃度はメーカー表示。"
+    },
+    {
+      "id": "review_cdb_3582965252170",
+      "name": "AZ アゼライン酸10% 美容液",
+      "brand": "Cos De BAHA",
+      "category": "美容液",
+      "price": "15.00",
+      "currency": "USD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0055/3238/5354/products/71iNnpZAPKL._SL1500.jpg?v=1628776739",
+      "url": "https://www.cosdebaha.com/products/cos-de-baha-azelaic-acid-10-serum-30ml-with-niacinamide-acne-scar-removal-redness-relief-face",
+      "affiliate_url": null,
+      "ingredient_ids": [
+        "inci_ca2d50d680c0",
+        "inci_ba76245f84bd",
+        "azelaic",
+        "inci_1dffaeb6d6ae",
+        "inci_a1622d5eb69d",
+        "inci_fcbeb9c1e123",
+        "inci_fc50f3a9dbf5",
+        "niacinamide",
+        "inci_8422be0089b0",
+        "inci_a8437610f50d"
+      ],
+      "full_ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Propylene Glycol",
+        "Azelaic Acid (10%)",
+        "Polysorbate 20",
+        "1,2-Hexanediol",
+        "Propanediol",
+        "Panthenol",
+        "Niacinamide",
+        "Sodium Hyaluronate",
+        "Camellia Sinensis Leaf Extract",
+        "Momordica Charantia Fruit Extract",
+        "Sambucus Nigra Flower Extract",
+        "Leontopodium Alpinum Extract"
+      ],
+      "formula_complete": true,
+      "source": "メーカー公式の全成分・商品情報",
+      "source_checked_at": "2026-10-04",
+      "regulatory_class": "JP_unverified",
+      "concern_ingredient_ids": [
+        "azelaic"
+      ],
+      "concern_listing_eligible": true,
+      "review_note": "海外向け処方。国内医薬部外品の効能とは区別。濃度はメーカー表示。"
+    },
+    {
+      "id": "review_tm_0210882",
+      "name": "【医薬部外品】原液ブライトニング美容液",
+      "brand": "チューンメーカーズ",
+      "category": "美容液",
+      "price": "4950",
+      "currency": "JPY",
+      "image_url": "https://cdn.shopify.com/s/files/1/0634/4376/3277/files/TM_30mL_B_S_088_Brightening_serum_front_square_rgb_new_1000px.jpg?v=1755675287",
+      "url": "https://tunemakers.net/products/0210882",
+      "affiliate_url": null,
+      "ingredient_ids": [
+        "tranexamic",
+        "niacinamide",
+        "tm_0210070",
+        "tm_0210012"
+      ],
+      "full_ingredients": [
+        "トラネキサム酸",
+        "リン酸アスコルビルＭｇ",
+        "ニコチン酸アミド",
+        "カモミラエキス（１）",
+        "コメヌカスフィンゴ糖脂質",
+        "油溶性甘草エキス（２）",
+        "水",
+        "ＢＧ",
+        "メチルフェニルポリシロキサン",
+        "水添大豆リン脂質",
+        "ペンチレングリコール",
+        "トリ（カプリル・カプリン酸）グリセリル",
+        "ＰＯＥ水添ヒマシ油",
+        "フェノキシエタノール",
+        "イソステアリン酸ソルビタン",
+        "アクリル酸・メタクリル酸アルキル共重合体",
+        "カルボキシビニルポリマー",
+        "ジエチレントリアミン５酢酸５Ｎａ液",
+        "水酸化Ｋ",
+        "ジラウロイルグルタミン酸リシンナトリウム液",
+        "疎水化ヒドロキシプロピルメチルセルロース",
+        "グリセリン脂肪酸エステル",
+        "ＰＯＥラウリルエーテルリン酸Ｎａ",
+        "クエン酸",
+        "クエン酸Ｎａ",
+        "１，２－ヘキサンジオール",
+        "濃グリセリン",
+        "ＤＬ－リンゴ酸ナトリウム",
+        "ＰＯＥフィトステロール",
+        "水添卵黄リン脂質",
+        "キサンタンガム",
+        "加水分解シルク液",
+        "水添大豆リゾリン脂質",
+        "ＤＬ－リンゴ酸",
+        "アルギニン"
+      ],
+      "formula_complete": true,
+      "source": "メーカー公式の全成分・商品情報",
+      "source_checked_at": "2026-10-04",
+      "regulatory_class": "quasi_drug",
+      "concern_ingredient_ids": [
+        "tranexamic"
+      ],
+      "concern_listing_eligible": true,
+      "approved_claim": "メラニンの生成を抑え、シミ・そばかすを防ぐ",
+      "review_note": "トラネキサム酸が美白有効成分。ニコチン酸アミド・ビタミンC誘導体はその他の成分。"
+    },
+    {
+      "id": "review_tm_0210970",
+      "name": "【医薬部外品】原液ブライトニング化粧水",
+      "brand": "チューンメーカーズ",
+      "category": "化粧水",
+      "price": "3850",
+      "currency": "JPY",
+      "image_url": "https://cdn.shopify.com/s/files/1/0634/4376/3277/files/TM_120mL_B_L_097_Brightening_lotion_front_square_rgb_new_1000px.jpg?v=1755675364",
+      "url": "https://tunemakers.net/products/0210970",
+      "affiliate_url": null,
+      "ingredient_ids": [
+        "tranexamic",
+        "niacinamide",
+        "tm_0210070",
+        "tm_0210012"
+      ],
+      "full_ingredients": [
+        "トラネキサム酸",
+        "リン酸アスコルビルＭｇ",
+        "コメヌカスフィンゴ糖脂質",
+        "ニコチン酸アミド",
+        "カモミラエキス（１）",
+        "セリン",
+        "グリシン",
+        "Ｌ－グルタミン酸",
+        "アラニン",
+        "リジン液",
+        "アルギニン",
+        "トレオニン",
+        "プロリン",
+        "油溶性甘草エキス（２）",
+        "ベタイン",
+        "ＤＬ－ＰＣＡ・Ｎａ液",
+        "ソルビトール液",
+        "水",
+        "濃グリセリン",
+        "ＢＧ",
+        "ペンチレングリコール",
+        "１，２－ヘキサンジオール",
+        "トリ（カプリル・カプリン酸）グリセリル",
+        "フェノキシエタノール",
+        "ＰＯＥ水添ヒマシ油",
+        "イソステアリン酸ソルビタン",
+        "グリセリン脂肪酸エステル",
+        "ＰＯＥラウリルエーテルリン酸Ｎａ",
+        "クエン酸",
+        "クエン酸Ｎａ",
+        "ＤＬ－リンゴ酸ナトリウム",
+        "ＰＯＥフィトステロール",
+        "水添卵黄リン脂質",
+        "キサンタンガム",
+        "メチルパラベン",
+        "水添大豆リン脂質",
+        "水添大豆リゾリン脂質",
+        "ＤＬ－リンゴ酸",
+        "プロピルパラベン"
+      ],
+      "formula_complete": true,
+      "source": "メーカー公式の全成分・商品情報",
+      "source_checked_at": "2026-10-04",
+      "regulatory_class": "quasi_drug",
+      "concern_ingredient_ids": [
+        "tranexamic"
+      ],
+      "concern_listing_eligible": true,
+      "approved_claim": "メラニンの生成を抑え、シミ・そばかすを防ぐ",
+      "review_note": "トラネキサム酸が美白有効成分。ニコチン酸アミド・ビタミンC誘導体はその他の成分。"
     }
   ],
   "medical_information": {
@@ -38858,5 +40059,29 @@
       "title": "DermNet：尋常性ざ瘡の特徴・種類・治療",
       "url": "https://dermnetnz.org/topics/acne-vulgaris"
     }
-  ]
+  ],
+  "condition_catalog_review": {
+    "checked_at": "2026-10-04",
+    "eligible_tunemakers_ids": [
+      "0210540",
+      "0210420",
+      "0210070",
+      "0210080",
+      "0210640",
+      "0210012"
+    ],
+    "excluded_international_ids": [
+      "intl_lifeflo_retinol",
+      "intl_cosdebaha_az",
+      "intl_cosdebaha_t15",
+      "intl_ordinary_n10",
+      "intl_cosrx_r01",
+      "intl_ordinary_az10",
+      "intl_paula_bha2",
+      "intl_geek_bbomb",
+      "intl_boj_glowdeep",
+      "intl_paula_az10"
+    ],
+    "policy": "症状別一覧は確認した顔用美容液・化粧水・原液。配合目的と医薬品の治療を区別し、洗浄剤・マスク・日焼け止め・クリーム・身体用・医薬品は自動掲載しない。"
+  }
 }
