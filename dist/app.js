@@ -6,7 +6,7 @@ const E=escapeHtml;
 const find=(collection,id)=>db[collection].find(x=>x.id===id);
 const crumbs=(label)=>`<div class="breadcrumb"><a href="#home">ホーム</a><span>/</span><span>${E(label)}</span></div>`;
 const a=(url,label,secondary=false)=>`<a class="button ${secondary?'secondary':''}" href="${E(url)}">${E(label)}</a>`;
-const external=(url,label)=>/^https:\/\//.test(url||'')?`<a href="${E(url)}" target="_blank" rel="noopener noreferrer">${E(label)}（別タブ）</a>`:'';
+const external=(url,label)=>db?.unavailable_external_urls?.includes(url)?`<span class="metadata">${E(label)}（現在リンク先を利用できません）</span>`:/^https:\/\//.test(url||'')?`<a href="${E(url)}" target="_blank" rel="noopener noreferrer">${E(label)}（別タブ）</a>`:'';
 const researchLabels={guideline:'学会ガイドライン',professional_guidance:'皮膚科専門団体の解説',rct_abstract:'比較試験・抄録確認',manufacturer:'メーカー公式情報',regulatory:'公的通知',api_documentation:'公式API資料',terms:'利用規約'};
 const labels={guidance:'専門団体の解説',limited_human:'限定した製剤での比較試験',treatment_context:'医療での使用を含む研究',manufacturer_only:'メーカー公式表示'};
 function display(html,title){main.innerHTML=linkIngredientNames(html);document.title=`${title} | 成分ノート`;main.focus({preventScroll:true});window.scrollTo(0,0);}
